@@ -1,1 +1,18 @@
 <h1>About HTML</h1>
+HTML: Hyper Text Markup Language
+Element:  opening tag,  content,  closing tag
+          <p>           Hello     </p>
+
+<body>
+  <p>Content btw the body element will only appear.
+  </p> 
+</body>
+
+<body>
+  <h1>Able to make as many bodies as you want.</h1>
+  <p> #<div> can make hierarchy. </p>
+  <p> Headings can be written as h1~6 as #<h1></h1>. 
+</body>
+
+<body>
+</body>
